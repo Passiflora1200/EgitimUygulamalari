@@ -28,4 +28,4 @@ namespace Deneme7
             Console.ReadLine();
         }
     }
-}6
+}

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme6", "Deneme6\Deneme6.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme7", "Deneme7\Deneme7.csproj", "{A9ACBF0F-E1DE-417D-A26D-0E676111AF3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme8", "Deneme8\Deneme8.csproj", "{E8BFEB22-F02A-4438-92CE-7DCCD246DB65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A9ACBF0F-E1DE-417D-A26D-0E676111AF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9ACBF0F-E1DE-417D-A26D-0E676111AF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9ACBF0F-E1DE-417D-A26D-0E676111AF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BFEB22-F02A-4438-92CE-7DCCD246DB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BFEB22-F02A-4438-92CE-7DCCD246DB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BFEB22-F02A-4438-92CE-7DCCD246DB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BFEB22-F02A-4438-92CE-7DCCD246DB65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
